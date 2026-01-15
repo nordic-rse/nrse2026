@@ -6,7 +6,7 @@ title = "Academic Workshop Zola Theme"
 
 Welcome to the 2026 edition of the Nordic-RSE conference! The conference will be in Tromsø in Summer 2026!
 
-More info to come soon, stay tuned!
+More info to come soon, stay tuned! :)
 
 
 <!--
