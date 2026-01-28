@@ -1,20 +1,20 @@
-base_url = "https://aterenin.github.io/academic-workshop"
+base_url = "https://nordic-rse.org/nrse2026"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
 minify_html = true
 
 [markdown]
-highlight_code = true
+highlight_code = false
 highlight_theme = "css"
 smart_punctuation = true
 
 [extra]
-footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme, which is [designed to last](https://jeffhuang.com/designed_to_last/)."
+footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme."
 title = {tagline = "Presenting the", title = "2026 Nordic-RSE Conference", subtitles = ["Tromsø"]}
 banner = {extension = "svg", size = "fixed", fade = true}
-buttons = [{name = "Website", url = "https://nordic-rse.org/nrse2026"}, {name="GitHub", url="http://github.com/nordic-rse/nrse2026"}]
+buttons = [{name = "Home", url = "/#home"}, {name="Schedule", url="/schedule"}, {name="Venue", url="/venue"}, {name="About", url="/about"}]
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
 header_pages = [{name = "Home", url = "/#home"},{name = "Design", url = "/#design"}]
-button_shortcuts = [{variable = "video", name = "Video"}]
+# button_shortcuts = [{variable = "video", name = "Video"}]

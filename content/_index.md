@@ -1,5 +1,5 @@
 +++
-title = "Academic Workshop Zola Theme"
+title = "2026 Nordic-RSE Conference"
 +++
 
 # Welcome
