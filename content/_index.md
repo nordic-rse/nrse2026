@@ -7,7 +7,29 @@ title = "Academic Workshop Zola Theme"
 Welcome to the 2026 edition of the Nordic-RSE conference! The
 conference will be held at the University of Tromsø on 9-10 June 2026!
 
-More info to come soon, stay tuned! :)
+## Call for Abstracts
+
+The call for abstracts is open! Submit your abstract [here](https://indico.neic.no/event/290/abstracts/#submit-abstract)
+
+If you are working as research software engineer or are passionate about open-source (be it coding or community building), you are warmly encourage to present at the Nordic-RSE conference.
+
+Relevant topics include but are not limited to:
+
+- Developing research software
+- Community building
+- Teaching programming to researchers
+- Reproducible science
+- Open-source, open-science, open access
+- High-performance computing
+
+### Formats:
+
+- **Discussion session**: 1 hour session for an interactive discussion
+around a theme
+- **Talk**: 20 minutes talk (including 5 minutes for questions)
+- **Lightning talk**: 10 minutes talk (including 3 minutes for question), particularly suitable for short demos or presenting WIP projects
+- **Tutorial**: 1 hour walkthrough about a technical topic, could be a tool you use, a programming language, a way you do things, etc.
+- **Poster**: Don't want to prepare a talk, but still have something to share? Submit a poster!
 
 
 <!--
