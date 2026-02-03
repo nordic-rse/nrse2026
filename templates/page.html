@@ -1,1 +1,38 @@
-{% extends "index.html" %}
+{% import "macros/list.html" as list %}
+
+{% extends "default.html" %}
+
+{% block header %}
+<header class="bg-odd{% if config.extra.banner %} bg-{{ config.extra.banner.extension }} bg-{{ config.extra.banner.size }}{%if config.extra.banner.no_repeat %} bg-no-repeat{% endif %}{% endif %}">
+    <div class="container d-flex justify-center" style="min-height: 250px; align-items: center;">
+        <div class="header text-center px-3 py-4{% if config.extra.banner.fade %} fade{% endif %}">
+            <h1><a href="{{ get_url(path='/') }}" style="color: inherit; text-decoration: none;">{{ config.extra.title.tagline }} {{ config.extra.title.title }}</a></h1>
+            {% if config.extra.buttons %}
+                <div class="d-flex flex-wrap justify-center" style="margin-top: 1rem;">
+                    {% for button in config.extra.buttons %}
+                        <a class="btn m-1" href="{{ get_url(path=button.url) | safe }}">{{ button.name }}</a>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</header>
+{% endblock %}
+
+{% block main %}
+<main aria-label="Content">
+    <div class="bg-even">
+        <section class="container content py-5">
+            {{ list::insert_list(content = this.content) | safe }}
+        </section>
+    </div>
+</main>
+{% endblock main %}
+
+{% block footer %}
+    {% if config.extra.footer_text %}
+        <footer class="footer">
+            {{ config.extra.footer_text | markdown | safe }}
+        </footer>
+    {% endif %}
+{% endblock %}

@@ -3,18 +3,6 @@
 {% extends "default.html" %}
 
 {% block nav %}
-<header class="n:container r:d-none">
-    <nav class="n:menu text-right">
-        <input id="nav" type="checkbox" class="btn-check">
-        <label for="nav" aria-label="button" class="n:icon d-inline-block m-1"></label>
-
-        <div class="ml-3 d-none b:d-flex flex-column">
-            {% for header_page in config.extra.header_pages %}
-                <a class="p-2" href="{{ get_url(path = header_page.url) | safe }}">{{ header_page.name }}</a>
-            {% endfor %}
-        </div>
-    </nav>
-</header>
 {% endblock %}
 
 {% block header %}
@@ -34,7 +22,7 @@
             {% if config.extra.buttons %}
                 <div class="d-flex flex-wrap justify-center">
                     {% for button in config.extra.buttons %}
-                        <a class="btn m-1" href="{{ button.url | safe }}">{{ button.name }}</a>
+                        <a class="btn m-1" href="{{ button.url }}">{{ button.name }}</a>
                     {% endfor %}
                 </div>
             {% endif %}
