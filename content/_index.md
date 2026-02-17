@@ -114,7 +114,7 @@ The detailed program will be published after the call for participation closes a
 
 We have arranged special accommodation options for conference participants:
 
-## UiT Student Housing (Recommended)
+## UiT Housing (Recommended)
 
 **20 rooms reserved** from June 8-14, 2026 at Samskipnaden student housing.
 Unfortunately, it is only possible to book the rooms for a minimum of 7 days.
@@ -123,8 +123,18 @@ Unfortunately, it is only possible to book the rooms for a minimum of 7 days.
 - **Price:** 2800 NOK for the whole week.
 - **Included:** Clean linen, towels, basic kitchenware, WiFi, laundry facilities
 
+**One small apartment** from June 8-14, 2026 at Samskipnaden student housing. 
+For families or those needing accessible accommodation.
+
+- **Type:** Small 2-bedroom apartment (wheelchair accessible)
+- **Price:** 3500 NOK for the whole week.
+- **Included:** Clean linen, towels, basic kitchenware, WiFi, laundry facilities
+
 This is an excellent budget option that keeps you close to other conference participants.
 Especially, if you want to combine the conference with a vacation to explore Tromsø and Northern Norway.
+
+These options can be requested during conference registration, and rooms will be assigned on a first-come, first-served basis
+
 
 ## Hotels in Tromsø
 
@@ -133,12 +143,6 @@ Usually, the prices are reasonable in the summer time.
 
 We will update this section with more hotel options and potential conference rates soon.
 
-## Small Apartment Option
-
-For families or those needing accessible accommodation:
-- **Type:** Small 2-bedroom apartment (wheelchair accessible)
-- **Price:** 3000 NOK per week (minimum 7 nights)
-- **Availability:** 1 unit available
 
 
 {{ new_block() }}
@@ -270,8 +274,6 @@ If your organization is interested in sponsoring Nordic-RSE 2026, please contact
 # Contact {#contact}
 
 **General Inquiries:** secretary@nordic-rse.org
-
-**Accommodation Booking:** uit.housing@samskipnaden.no
 
 **Follow Nordic-RSE:**
 - Website: [nordic-rse.org](https://nordic-rse.org)
