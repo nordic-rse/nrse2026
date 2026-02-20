@@ -168,14 +168,14 @@ We have arranged special accommodation options for conference participants:
 
 ## UiT Housing (Recommended)
 
-**20 rooms reserved** from June 8-14, 2026 at Samskipnaden student housing.
+**20 rooms reserved** from June 8-14, 2026 at the guest accomodations on campus.
 Unfortunately, it is only possible to book the rooms for a minimum of 7 days.
 
 - **Type:** Shared dormitory (dublett) with common bathroom and kitchen
 - **Price:** 2800 NOK for the whole week.
 - **Included:** Clean linen, towels, basic kitchenware, WiFi, laundry facilities
 
-**One small apartment** from June 8-14, 2026 at Samskipnaden student housing. 
+**One small apartment** from June 8-14, 2026 at the guest accomodations on campus.
 For families or those needing accessible accommodation.
 
 - **Type:** Small 2-bedroom apartment (wheelchair accessible)
