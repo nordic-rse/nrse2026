@@ -20,9 +20,10 @@ This community-driven conference is for anyone working at the interface between 
 
 Nordic-RSE is a grass-root professional association providing a networking platform for Research Software Engineers in the Nordic region. The 2026 conference features a unique two-day format:
 
-**Day 1 (June 9):** Focused sessions for the RSE community - share experiences, discuss best practices, and connect with fellow RSEs.
 
-**Day 2 (June 10):** Open to the broader community including students, researchers, and private companies - learn about research software engineering and its impact across sectors.
+**Day 1 (June 9):** Open to the broader community including students, researchers, and private companies - learn about research software engineering and its impact across sectors.
+
+**Day 2 (June 10):** Focused sessions for the RSE community - share experiences, discuss best practices, and connect with fellow RSEs.
 
 Whether you're an experienced RSE or just getting started with writing scientific software and scripts, this conference offers valuable insights and networking opportunities.
 
@@ -109,6 +110,57 @@ The detailed program will be published after the call for participation closes a
 
 {{ new_block() }}
 
+# Invited Speakers {#speakers}
+<div class="speakers-grid">
+    <div class="speaker">
+        <img src="mihaela_duta.jpg" alt="Speaker 1" class="speaker-image">
+        <div class="speaker-details">
+            <h3><a href="https://www.rse.ox.ac.uk/dr-mihaela-duta" target="_blank">Dr. Mihaela Duta </a></h3>
+            <p><em>Principal Research Software Engineer at the University of Oxford</em></p>
+            <p>Mihaela Duta leads the service provision for <a href="https://www.rse.ox.ac.uk/" target="_blank">OxRSE </a> and contributes to shaping research software strategy across the University of Oxford. She specialises in data science and applied software engineering, with particular expertise in interactive visualisation dashboards, data processing pipelines, mobile and web applications, and instrument control. She is also the co-founder of <a href="https://oxedandassessment.com/" target="_blank">OxEd and Assessment</a>, work that was Highly Commended in the <a href="https://www.ox.ac.uk/research/recognition/vice-chancellors-innovation-engagement-awards" target="_blank">2022 Vice-Chancellor’s Innovation and Engagement Awards</a> for making a positive difference to society.
+
+Mihaela also helped professionalize the <a href="https://en.uit.no/infrastruktur/enhet?p_document_id=910823" target="_blank">RSE group at UiT</a> by providing valuable advice on the group's organisational structure, workflows and outreach activities.</p>
+        </div>
+    </div>
+    <div class="speaker">
+        <img src="Elisabeth_Wetzer.jpeg" alt="Speaker 2" class="speaker-image">
+        <div class="speaker-details">
+            <h3><a href="https://en.uit.no/ansatte/person?p_document_id=834826" target="_blank">Assoc. Prof. Dr. Elisabeth Wetzer </a></h3>
+            <p><em>Associate Professor in Machine Learning at UiT The Arctic University of Norway</em></p>
+            <p>Elisabeth Wetzer is a principal investigator at the Centre for Research-based Innovation, <a href="https://www.visual-intelligence.no/" target="_blank">SFI Visual Intelligence</a>, and the Centre of Excellence, <a href="https://www.integreat.no/" target="_blank"> SFF Integreat</a>. Her research spans biomedical applications, including microscopy, spatial biology, and medical imaging techniques such as dynamic PET, mammography, and echocardiography. 
+
+Together with Assoc. Prof. Dr. Kristoffer Wickstrøm, she started a Research Software Engineering course (<a href="https://github.com/FYS-8805-Collaborative-Coding/lecture-material" targe="_blank">FYS-8805 Collaborative Coding and Reproducible Research</a>)  for PhD students at UiT.</p>
+        </div>
+    </div>
+</div>
+<style>
+.speakers-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+.speaker {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+}
+.speaker-image {
+    width: 150px; /* Set a fixed width */
+    height: 150px; /* Set a fixed height */
+    object-fit: cover; /* Ensures the image scales and crops proportionally */
+    border-radius: 8px; /* Optional: Adds rounded corners */
+}
+<!-- .speaker-image { -->
+<!--     max-width: 150px; -->
+<!--     border-radius: 8px; -->
+<!-- } -->
+.speaker-details {
+    max-width: 800px;
+}
+</style>
+
+{{ new_block() }}
 
 # Accommodation {#accommodation}
 
