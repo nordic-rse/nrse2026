@@ -175,7 +175,7 @@ We have arranged special accommodation options for conference participants:
 **20 rooms reserved** from June 8-14, 2026 at the guest accommodations on campus.
 Unfortunately, it is only possible to book the rooms for a minimum of 7 days.
 
-- **Type:** Shared dormitory (dublett) with common bathroom and kitchen
+- **Type:** Shared dormitory (private bedroom with common bathroom and kitchen)
 - **Price:** 2800 NOK (ca. € 250,-) for the whole week.
 - **Included:** Clean linen, towels, basic kitchenware, WiFi, laundry facilities
 
