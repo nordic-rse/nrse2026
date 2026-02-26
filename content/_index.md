@@ -28,12 +28,16 @@ Nordic-RSE is a grass-root professional association providing a networking platf
 Whether you're an experienced RSE or just getting started with writing scientific software and scripts, this conference offers valuable insights and networking opportunities.
 
 
+## Registration Fee: € 25,-
+
 {{ new_block() }}
 
 
 # Important Dates
 
-**Call for Participation:** Deadline XXXX
+**Call for Participation:** Deadline April 27, 2026
+
+**Registration**: Will open soon
 
 **Conference Dates:** June 9-10, 2026
 
@@ -171,15 +175,15 @@ We have arranged special accommodation options for conference participants:
 **20 rooms reserved** from June 8-14, 2026 at the guest accommodations on campus.
 Unfortunately, it is only possible to book the rooms for a minimum of 7 days.
 
-- **Type:** Shared dormitory (dublett) with common bathroom and kitchen
-- **Price:** 2800 NOK for the whole week.
+- **Type:** Shared dormitory (private bedroom, bathroom and kitchen shared with one other person).
+- **Price:** 2800 NOK (ca. € 250,-) for the whole week.
 - **Included:** Clean linen, towels, basic kitchenware, WiFi, laundry facilities
 
 **One small apartment** from June 8-14, 2026 at the guest accommodations on campus.
-For families or those needing accessible accommodation.
+For those needing accessible accommodation.
 
 - **Type:** Small 2-bedroom apartment (wheelchair accessible)
-- **Price:** 3500 NOK for the whole week.
+- **Price:** 3500 NOK (ca. € 310,-) for the whole week.
 - **Included:** Clean linen, towels, basic kitchenware, WiFi, laundry facilities
 
 This is an excellent budget option that keeps you close to other conference participants.
