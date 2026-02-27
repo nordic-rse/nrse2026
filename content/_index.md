@@ -4,7 +4,7 @@ title = "2026 Nordic-RSE Conference"
 
 # Welcome
 
-Join us for the Nordic-RSE Conference 2026, bringing together Research Software Engineers from across the Nordic region and beyond for two days of learning, networking, and collaboration.
+Are you passionate about research software? Whether you develop research tools, support scientific software, or are simply curious about how good code makes research better — this is the perfect space for you. Join us for two days of learning, networking, and connecting with people who care about research software at the Nordic Research Software Engineering Conference.
 
 **Dates:** June 9-10, 2026  
 **Location:** [Auditorium Cerebrum, UiT - The Arctic University of Norway, Tromsø](#venue)  
@@ -12,20 +12,29 @@ Join us for the Nordic-RSE Conference 2026, bringing together Research Software 
 
 This community-driven conference is for anyone working at the interface between research and digital technologies - from software developers and data scientists to system administrators and research supporters.
 
+**Who Should Attend?**
+
+You don't need to call yourself an "RSE" to join. If you write code for research, manage research software, support researchers with tools, or are just curious — this conference is for you. We welcome researchers, students, developers, data scientists, system administrators, and anyone else interested in research software, regardless of background.
+
+<div class="logo-container">
+    <img src="UiT_Logo_Bla.png" alt="UiT Logo" class="logo">
+    <img src="NRSE_logo.png" alt="NRSE Logo" class="logo">
+</div>
+
 
 {{ new_block() }}
 
 
 # About the Conference {#about}
 
-Nordic-RSE is a grass-root professional association providing a networking platform for Research Software Engineers in the Nordic region. The 2026 conference features a unique two-day format:
+Nordic-RSE is a grass-root professional association providing a networking platform for Research Software Engineers in the Nordic region. We believe the code supporting research deserves as much attention as the results it produces. Unlike traditional academic conferences that focus on research results, we focus on the tools, practices, and challenges that enable those results.
+
+The 2026 conference features a unique two-day format:
 
 
 **Day 1 (June 9):** Open to the broader community including students, researchers, and private companies - learn about research software engineering and its impact across sectors.
 
 **Day 2 (June 10):** Focused sessions for the RSE community - share experiences, discuss best practices, and connect with fellow RSEs.
-
-Whether you're an experienced RSE or just getting started with writing scientific software and scripts, this conference offers valuable insights and networking opportunities.
 
 
 ## Registration Fee: € 25,-
@@ -45,7 +54,7 @@ Whether you're an experienced RSE or just getting started with writing scientifi
 
 # Call for Abstracts {#cfp}
 
-The call for abstracts is open! Submit your abstract [here](https://indico.neic.no/event/290/abstracts/#submit-abstract)
+The call for abstracts is open! Submit your abstract [here.](https://indico.neic.no/event/290/abstracts/#submit-abstract)
 
 If you are working as research software engineer or are passionate about open-source (be it coding or community building), you are warmly encourage to present at the Nordic-RSE conference.
 
@@ -247,7 +256,7 @@ Tromsø offers a unique blend of Arctic nature and urban culture. Extend your st
 
 **Nature & Adventure:**
 - Midnight Sun (visible late May through late July - perfect timing for our conference!)
-- Hiking trails with stunning views (Sherpa Trappa, Varden)
+- Hiking trails with stunning views (Sherpatrappa, Varden)
 - Kayaking and boat tours
 - Wildlife experiences
 
@@ -258,7 +267,7 @@ Tromsø offers a unique blend of Arctic nature and urban culture. Extend your st
 - Historic wooden architecture
 
 **Organized Activities (To Be Confirmed):**
-- Sherpa Trappa hike
+- Sherpatrappa hike
 - Varden viewpoint visit
 - Guided city tour
 
@@ -299,7 +308,7 @@ Beyond the formal sessions, we're planning social activities to help you connect
 - **Date:** Evening of June 9 or 10 (to be announced)
 
 **Optional Activities:**
-- Sherpa Trappa hike
+- Sherpatrappa hike
 - Varden viewpoint excursion
 - Tromsø city guided tour
 
@@ -308,7 +317,7 @@ Details about timing, costs, and registration for social activities will be anno
 
 {{ new_block() }}
 
-# Need another reason to come
+# Need another reason to come?
 
 The next **LUMI AI Workshop** will be hosted at UiT on **June 11-12, 2026**, immediately following the Nordic-RSE Conference. This workshop will feature an updated version of the previous [LUMI AI Workshop](https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop/) held at KTH, Stockholm.
 
