@@ -13,6 +13,11 @@ Join us for the Nordic-RSE Conference 2026, bringing together Research Software 
 This community-driven conference is for anyone working at the interface between research and digital technologies - from software developers and data scientists to system administrators and research supporters.
 
 
+<div class="logo-container">
+    <img src="UiT_Logo_Bla.png" alt="UiT Logo" class="logo">
+    <img src="NRSE_logo.png" alt="NRSE Logo" class="logo">
+</div>
+
 {{ new_block() }}
 
 
@@ -247,7 +252,7 @@ Tromsø offers a unique blend of Arctic nature and urban culture. Extend your st
 
 **Nature & Adventure:**
 - Midnight Sun (visible late May through late July - perfect timing for our conference!)
-- Hiking trails with stunning views (Sherpa Trappa, Varden)
+- Hiking trails with stunning views (Sherpatrappa, Varden)
 - Kayaking and boat tours
 - Wildlife experiences
 
@@ -258,7 +263,7 @@ Tromsø offers a unique blend of Arctic nature and urban culture. Extend your st
 - Historic wooden architecture
 
 **Organized Activities (To Be Confirmed):**
-- Sherpa Trappa hike
+- Sherpatrappa hike
 - Varden viewpoint visit
 - Guided city tour
 
@@ -299,7 +304,7 @@ Beyond the formal sessions, we're planning social activities to help you connect
 - **Date:** Evening of June 9 or 10 (to be announced)
 
 **Optional Activities:**
-- Sherpa Trappa hike
+- Sherpatrappa hike
 - Varden viewpoint excursion
 - Tromsø city guided tour
 
@@ -308,7 +313,7 @@ Details about timing, costs, and registration for social activities will be anno
 
 {{ new_block() }}
 
-# Need another reason to come
+# Need another reason to come?
 
 The next **LUMI AI Workshop** will be hosted at UiT on **June 11-12, 2026**, immediately following the Nordic-RSE Conference. This workshop will feature an updated version of the previous [LUMI AI Workshop](https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop/) held at KTH, Stockholm.
 

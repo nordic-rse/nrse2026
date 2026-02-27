@@ -1,0 +1,12 @@
+.logo-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3rem;
+    margin-bottom: 0.1rem;
+}
+
+.logo {
+    max-width: 20rem;
+    height: auto;
+}
