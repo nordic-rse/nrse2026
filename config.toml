@@ -16,5 +16,5 @@ banner = {extension = "jpg", size = "cover", fade = true}
 buttons = [{name = "About", url = "#about"}, {name = "Call for contributions", url = "/#call-for-abstracts"},  {name = "Venue", url = "#venue"}, {name = "Schedule", url = "#schedule"},{name = "Contact", url = "#contact"}]
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
-header_pages = [{name = "Home", url = "/#home"},{name = "Call for contributions", url = "/#cfp"}, {name = "Schedule", url = "/#schedule"},{name = "Venue", url = "/#venue"}]
+header_pages = [{name = "Home", url = "/#home"},{name = "Call for contributions", url = "/#call-for-abstracts"}, {name = "Schedule", url = "/#schedule"},{name = "Venue", url = "/#venue"}]
 button_shortcuts = [{variable = "video", name = "Video"}]
