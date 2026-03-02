@@ -30,7 +30,7 @@ We believe the code supporting research deserves as much attention as the result
 
 **Who Should Attend?**
 
-Are you passionate about research software? Whether you develop research tools, support scientific software, or are simply curious about how good code makes research better — this is the perfect space for you. 
+**Porbably you**, if you are passionate about research software. Whether you develop research tools, support scientific software, or are simply curious about how good code makes research better — this is the perfect space for you. 
 We welcome researchers, students, developers, data scientists, system administrators, and anyone else interested in research software, regardless of background.
 
 The 2026 conference features a two-day format:
