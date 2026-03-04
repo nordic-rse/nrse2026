@@ -41,7 +41,7 @@ The 2026 conference features a two-day format:
 **Day 2 (June 10):** Focused sessions for the RSE community - share experiences, discuss best practices, and connect with fellow RSEs.
 
 
-### Registration Fee: € 25,-
+### Register for the conference [here](https://indico.neic.no/event/290/registrations/208/) (Registration Fee: € 25,-).
 {{ new_block() }}
 
 # Invited Speakers {#speakers}
@@ -97,11 +97,11 @@ Together with Assoc. Prof. Dr. Kristoffer Wickstrøm, she started a Research Sof
 {{ new_block() }}
 
 
-# Important Dates {#call-for-abstracts}
+# Important Dates {#abstract}
 
 **Call for Abstracts:** Deadline April 27, 2026
 
-**Registration**: Will open soon
+**Registration**: Deadline May 24, 2026
 
 **Conference Dates:** June 9-10, 2026
 
@@ -109,7 +109,7 @@ Together with Assoc. Prof. Dr. Kristoffer Wickstrøm, she started a Research Sof
 
 # Call for Abstracts 
 
-The call for abstracts is open! Submit your abstract [here.](https://indico.neic.no/event/290/abstracts/#submit-abstract)
+### Submit your abstract [here.](https://indico.neic.no/event/290/abstracts/#submit-abstract)
 
 <!-- If you are working as research software engineer or are passionate about open-source (be it coding or community building), you are warmly encourage to present at the Nordic-RSE conference. -->
 
