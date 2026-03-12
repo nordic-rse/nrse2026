@@ -241,8 +241,6 @@ These options can be requested during conference registration, and rooms will be
 Tromsø offers lots of hotels, just check the typical booking pages for offers.
 Usually, the prices are reasonable in the summer time.
 
-We will update this section with more hotel options and potential conference rates soon.
-
 
 
 {{ new_block() }}
