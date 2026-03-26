@@ -135,9 +135,7 @@ around a theme
 
 # Need another reason to come?
 
-The next **LUMI AI Workshop** will be hosted at UiT on **June 11-12, 2026**, immediately following the Nordic-RSE Conference. This workshop will feature an updated version of the previous [LUMI AI Workshop](https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop/) held at KTH, Stockholm.
-
-More details, including registration links, will be shared soon.
+The next **LUMI AI Workshop** will be hosted at UiT on **June 11-12, 2026**, immediately following the Nordic-RSE Conference. For more information and registration links, visit the [workshop website](https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop-june2026/).
 
 {{ new_block() }}
 
