@@ -195,14 +195,14 @@ All conference participants will enjoy full catering on both days.
 - Lunch each day
 - Afternoon cake and coffee
 
-<!-- **Plus social dinner (BBQ if the weather permits) on day 1** -->
+Generously provided by the [UiT IT Department](https://uit.no/enhet/ita) for all registered participants
 
 **Conference BBQ:**
 - **Venue:** BFE Naust (to be confirmed)
 - **Date:** Evening of June 9 or 10 (to be announced)
 
+Generously sponsored by [Oceanbox.io](https://oceanbox.io/)
 
-All food is generously provided by the UiT IT Department for all registered participants
 
 Dietary requirements will be collected during registration to accommodate all participants.
 
@@ -313,9 +313,13 @@ Even in June, bring layers and prepare for variable weather. Temperatures are mi
 
 
 # Sponsors
+<div class="logo-container">
+    <img src="Oceanbox-logo-01.svg" alt="oceanbox Logo" class="logo">
+    <img src="SSI_PRIMARY-LOGO.svg" alt="oceanbox Logo" class="logo">
+    <img src="UiT_Logo_Bla.png" alt="UiT Logo" class="logo">
+</div>
 
 If your organization is interested in sponsoring Nordic-RSE 2026, please contact secretary@nordic-rse.org.
-
 
 {{ new_block() }}
 
