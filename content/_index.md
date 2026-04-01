@@ -68,7 +68,7 @@ Together with Assoc. Prof. Dr. Kristoffer Wickstrøm, she started a Research Sof
     </div>
 </div>
 <div class="speaker">
-        <img src="radovan-bast.png" alt="Speaker 3" class="speaker-image">
+        <img src="radovan-bast.jpg" alt="Speaker 3" class="speaker-image">
         <div class="speaker-details">
             <h3><a href="https://radovan.xyz/" target="_blank">Dr. Radovan Bast</a></h3>
             <p><em>Senior Scientist at Oceanbox.io</em></p>
