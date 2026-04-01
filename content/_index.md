@@ -71,11 +71,25 @@ Together with Assoc. Prof. Dr. Kristoffer Wickstrøm, she started a Research Sof
         <img src="radovan-bast.jpg" alt="Speaker 3" class="speaker-image">
         <div class="speaker-details">
             <h3><a href="https://radovan.xyz/" target="_blank">Dr. Radovan Bast</a></h3>
-            <p><em>Senior Scientist at Oceanbox.io</em></p>
+            <p><em>Senior Scientist at Oceanbox</em></p>
         <p>
-Radovan Bast is a theoretical chemist turned research software engineer who specializes in developing tools and models using computational geometry and computational fluid dynamics, programming primarily in Rust and Fortran. He is a prominent advocate for best practices in academic software, actively contributing to the <a href="https://coderefinery.org" target="_blank">CodeRefinery project</a> and the <a href="https://nordic-rse.org/" target="_blank">Nordic Research Software Engineer community</a>. 
+Radovan Bast is a theoretical chemist by education and research software
+engineer by heart who has been jumping a bit between research, computation,
+programming, teaching, academia, and industry, and enjoys working somewhere
+in-between all of these with focus on reproducibility and modular code
+development.
 
-During his time at UiT The Arctic University of Norway, where he worked with the university's High Performance Computing Group, Radovan founded UiT's <a href="https://research-software.uit.no" target="_blank">Research Software Engineering Group</a>.
+Currently he is working at an oceanography start-up and having fun with
+computational geometry and computational fluid dynamics, Rust, Python,
+WebAssembly, and algorithms.
+
+During his time at UiT The Arctic University of Norway, where he worked with
+the High Performance Computing Group, Radovan founded UiT's <a
+href="https://research-software.uit.no" target="_blank">Research Software
+Engineering Group</a> and started the <a href="https://coderefinery.org"
+target="_blank">CodeRefinery project</a>. He is one of the founding members of
+the <a href="https://nordic-rse.org/" target="_blank">Nordic Research Software
+Engineer community</a>.
         </p>
         </div>
     </div>
