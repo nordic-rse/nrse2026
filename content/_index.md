@@ -67,11 +67,38 @@ Together with Assoc. Prof. Dr. Kristoffer Wickstrøm, she started a Research Sof
         </div>
     </div>
 </div>
+<div class="speaker">
+        <img src="radovan-bast.jpg" alt="Speaker 3" class="speaker-image">
+        <div class="speaker-details">
+            <h3><a href="https://radovan.xyz/" target="_blank">Dr. Radovan Bast</a></h3>
+            <p><em>Senior Scientist at Oceanbox</em></p>
+        <p>
+Radovan Bast is a theoretical chemist by education and research software
+engineer by heart who has been jumping a bit between research, computation,
+programming, teaching, academia, and industry, and enjoys working somewhere
+in-between all of these with focus on reproducibility and modular code
+development.
+
+Currently he is working at an oceanography start-up and having fun with
+computational geometry and computational fluid dynamics, Rust, Python,
+WebAssembly, and algorithms.
+
+During his time at UiT The Arctic University of Norway, where he worked with
+the High Performance Computing Group, Radovan founded UiT's <a
+href="https://research-software.uit.no" target="_blank">Research Software
+Engineering Group</a> and started the <a href="https://coderefinery.org"
+target="_blank">CodeRefinery project</a>. He is one of the founding members of
+the <a href="https://nordic-rse.org/" target="_blank">Nordic Research Software
+Engineer community</a>.
+        </p>
+        </div>
+    </div>
+</div>
 <style>
 .speakers-grid {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    <!-- gap: 2rem; -->
     margin-top: 2rem;
 }
 .speaker {
