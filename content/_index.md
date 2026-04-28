@@ -109,27 +109,9 @@ Together with Assoc. Prof. Dr. Kristoffer Wickstrøm, she started a Research Sof
 
 # Call for Abstracts 
 
-### Submit your abstract [here.](https://indico.neic.no/event/290/abstracts/#submit-abstract)
+**The abstract submission deadline has now passed.** We are currently reviewing the submissions and will notify authors of acceptance soon.
 
-<!-- If you are working as research software engineer or are passionate about open-source (be it coding or community building), you are warmly encourage to present at the Nordic-RSE conference. -->
-
-Relevant topics include but are not limited to:
-
-- Developing research software
-- Community building
-- Teaching programming to researchers
-- Reproducible science
-- Open-source, open-science, open access
-- High-performance computing
-
-### Formats:
-
-- **Discussion session**: 1 hour session for an interactive discussion
-around a theme
-- **Talk**: 20 minutes talk (including 5 minutes for questions)
-- **Lightning talk**: 10 minutes talk (including 3 minutes for question), particularly suitable for short demos or presenting WIP projects
-- **Tutorial**: 1 hour walkthrough about a technical topic, could be a tool you use, a programming language, a way you do things, etc.
-- **Poster**: Don't want to prepare a talk, but still have something to share? Submit a poster!
+You can still submit an abstract for the poster session until May 24, 2026 via sending an email to **secretary@nordic-rse.org** including the title, authors and abstract.
 
 {{ new_block() }}
 
