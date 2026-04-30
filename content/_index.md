@@ -9,7 +9,7 @@ Join us for two days of learning, networking, and connecting with people who car
 
 **Dates:** June 9-10, 2026  
 **Location:** [Auditorium Cerebrum, UiT - The Arctic University of Norway, Tromsø](#venue)  
-**Times:** [9:00 - 16:00 each day](#schedule)
+**Times:** [9:00 - 16:30 each day](#schedule)
 
 <!-- This community-driven conference is for anyone working at the interface between research and digital technologies - from software developers and data scientists to system administrators and research supporters. -->
 The 2026 edition of the Nordic-RSE conference is organized by Nordic-RSE and UiT - The Arctic University of Norway.
@@ -174,21 +174,8 @@ More detailed directions and campus maps will be provided closer to the conferen
 
 # Schedule {#schedule}
 
-The conference runs from **9:00 to 16:00** on both days.
 
-### What to Expect:
-- Keynote presentations from invited speakers
-- Technical talks and demonstrations
-- Discussion sessions and panels
-- Poster presentations
-- Networking opportunities
-- Coffee breaks, lunch, and afternoon refreshments included
-
-### Conference Format:
-- **Day 1 (June 9):** Open sessions for students, researchers, and industry partners
-- **Day 2 (June 10):** RSE-focused sessions for practitioners and community members
-
-The detailed program will be published after the call for abstracts closes and submissions are reviewed.
+The **provisional schedule** can be found on the [**Indico conference page**](https://indico.neic.no/event/290/timetable/#20260609), and will be updated as we finalize the program.
 
 {{ new_block() }}
 
