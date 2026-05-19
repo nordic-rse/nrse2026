@@ -152,6 +152,7 @@ The next **LUMI AI Workshop** will be hosted at UiT on **June 11-12, 2026**, imm
 
 The conference will be held at [**Auditorium Cerebrum** at UiT - The Arctic University of Norway in Tromsø](https://link.mazemap.com/CUiXs19U) .
 
+
 **Address:**
 
 UiT - The Arctic University of Norway  
@@ -160,6 +161,10 @@ Universitetsvegen 61
 Norway
 
 [Google Maps link](https://maps.app.goo.gl/YCQriKUMACmXu7Qp6)
+
+
+The route from the UiT bus stop to the auditorium is shown on this [map](https://drive.google.com/file/d/1xG1eiQd-h7IKuhQI5detNc5uMaUxEJZP/view?usp=sharing). If you have any trouble finding the venue or need to contact the organizers in an emergency, please call Binod Baniya at **+47 46578763**.
+
 
 ### Getting to UiT:
 - **By Air:** Tromsø Airport (Langnes) is located about 5 km from the city center. Local buses and taxis connect the airport to the city and university.
