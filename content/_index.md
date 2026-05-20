@@ -150,7 +150,7 @@ The next **LUMI AI Workshop** will be hosted at UiT on **June 11-12, 2026**, imm
 
 # Venue {#venue}
 
-The conference will be held at [**Auditorium Cerebrum** at UiT - The Arctic University of Norway in Tromsø](https://link.mazemap.com/CUiXs19U) .
+The conference will be held at [**Auditorium Cerebrum** at UiT - The Arctic University of Norway in Tromsø](https://link.mazemap.com/CUiXs19U) . Click [here](https://link.mazemap.com/CUiXs19U) for the MazeMap link. 
 
 
 **Address:**
