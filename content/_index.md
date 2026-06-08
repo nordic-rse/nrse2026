@@ -41,7 +41,90 @@ The 2026 conference features a two-day format:
 **Day 2 (June 10):** Focused sessions for the RSE community - share experiences, discuss best practices, and connect with fellow RSEs.
 
 
+# Venue {#venue}
+
+The conference will be held at [**Auditorium Cerebrum** at UiT - The Arctic University of Norway in Tromsø](https://link.mazemap.com/CUiXs19U) . Click [here](https://link.mazemap.com/CUiXs19U) for the MazeMap link. 
+
+
+**Address:**
+
+UiT - The Arctic University of Norway  
+Universitetsvegen 61  
+9019 Tromsø  
+Norway
+
+[Google Maps link](https://maps.app.goo.gl/YCQriKUMACmXu7Qp6)
+
+
+The route from the UiT bus stop to the auditorium is shown on this [map](https://drive.google.com/file/d/1xG1eiQd-h7IKuhQI5detNc5uMaUxEJZP/view?usp=sharing). If you have any trouble finding the venue or need to contact the organizers in an emergency, please call Binod Baniya at **+47 46578763**.
+
+## WiFi Network
+
+We offer three WiFi networks:
+1. **Eduroam:** If you have eduroam access through your home organisation, you can use at UiT.
+2. **uit-guest:** You have to register with your telephone number on the access page to get login credentials.
+3. **uit-conference:** We will share the password necessary to logon during the conference.
+
+
+
+### Getting to UiT:
+- **By Air:** Tromsø Airport (Langnes) is located about 5 km from the city center. Local buses and taxis connect the airport to the city and university.
+- **By Bus:** Public transportation serves the university campus. Check [Tromsø public transport](https://www.tromskortet.no/) for routes and schedules.
+- **Parking:** Limited parking is available on campus.
+
+
+{{ new_block() }}
+
+
+# Schedule {#schedule}
+
+
+The **final schedule** can be found on the [**Indico conference page**](https://indico.neic.no/event/290/timetable/#20260609).
+
+{{ new_block() }}
+
+
+
+# Food and Social Events
+
+All conference participants will enjoy full catering on both days.
+
+- Morning coffee and refreshments
+- Lunch each day
+- Afternoon cake and coffee
+
+Generously provided by the [UiT IT Department](https://uit.no/enhet/ita) for all registered participants
+
+### Conference BBQ
+
+- **Venue:** [Telegrafbukta](https://maps.app.goo.gl/exCb5ekDGXXGsj9C8)
+- **Date:** Tuesday, June 9
+- **Time:**: 17:30--21:00
+
+We will have a casual BBQ at our public city beach. We will provide (vegetarian and non-vegetarian) grill food, salads and alcohol-free drinks.
+
+The weather looks perfect but it can always be windy, so bring a jacket.
+
+Generously sponsored by [Ocean box.do](https://oceanbox.io/)
+
+
+Dietary requirements will be collected during registration to accommodate all participants.
+
+
+### Guided City Tour
+
+- **Meeting spot:** [In city centre, in front of the cathedral](https://maps.app.goo.gl/oaUWNweVMDEuxhkS9)
+- **Date:** Wednesday, June 10
+- **Time:**: 18:30
+
+To show you our little city, we have organized a free, professionally guided city tour on the evening of the second day.
+Please register during the lunch break of day 1.
+
+
+
+{{ new_block() }}
 ### Register for the conference [here](https://indico.neic.no/event/290/registrations/208/) (Registration Fee: € 25,-).
+__The registration is closed now. See you next year.__
 {{ new_block() }}
 
 # Invited Speakers {#speakers}
@@ -148,66 +231,6 @@ The next **LUMI AI Workshop** will be hosted at UiT on **June 11-12, 2026**, imm
 
 {{ new_block() }}
 
-# Venue {#venue}
-
-The conference will be held at [**Auditorium Cerebrum** at UiT - The Arctic University of Norway in Tromsø](https://link.mazemap.com/CUiXs19U) . Click [here](https://link.mazemap.com/CUiXs19U) for the MazeMap link. 
-
-
-**Address:**
-
-UiT - The Arctic University of Norway  
-Universitetsvegen 61  
-9019 Tromsø  
-Norway
-
-[Google Maps link](https://maps.app.goo.gl/YCQriKUMACmXu7Qp6)
-
-
-The route from the UiT bus stop to the auditorium is shown on this [map](https://drive.google.com/file/d/1xG1eiQd-h7IKuhQI5detNc5uMaUxEJZP/view?usp=sharing). If you have any trouble finding the venue or need to contact the organizers in an emergency, please call Binod Baniya at **+47 46578763**.
-
-
-### Getting to UiT:
-- **By Air:** Tromsø Airport (Langnes) is located about 5 km from the city center. Local buses and taxis connect the airport to the city and university.
-- **By Bus:** Public transportation serves the university campus. Check [Tromsø public transport](https://www.tromskortet.no/) for routes and schedules.
-- **Parking:** Limited parking is available on campus.
-
-More detailed directions and campus maps will be provided closer to the conference date.
-
-
-{{ new_block() }}
-
-
-# Schedule {#schedule}
-
-
-The **provisional schedule** can be found on the [**Indico conference page**](https://indico.neic.no/event/290/timetable/#20260609), and will be updated as we finalize the program.
-
-{{ new_block() }}
-
-
-
-# Catering
-
-All conference participants will enjoy full catering on both days.
-
-- Morning coffee and refreshments
-- Lunch each day
-- Afternoon cake and coffee
-
-Generously provided by the [UiT IT Department](https://uit.no/enhet/ita) for all registered participants
-
-**Conference BBQ:**
-- **Venue:** BFE Naust (to be confirmed)
-- **Date:** Evening of June 9 or 10 (to be announced)
-
-Generously sponsored by [Oceanbox.io](https://oceanbox.io/)
-
-
-Dietary requirements will be collected during registration to accommodate all participants.
-
-
-
-{{ new_block() }}
 
 # Accommodation {#accommodation}
 
