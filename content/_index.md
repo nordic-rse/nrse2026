@@ -105,7 +105,7 @@ We will have a casual BBQ at our public city beach. We will provide (vegetarian 
 
 The weather looks perfect but it can always be windy, so bring a jacket.
 
-Generously sponsored by [Ocean box.do](https://oceanbox.io/)
+Generously sponsored by [oceanbox.io](https://oceanbox.io/)
 
 
 Dietary requirements will be collected during registration to accommodate all participants.
